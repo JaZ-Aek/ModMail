@@ -34,3 +34,4 @@ Once you create it, please copy all contents of `src/langs/locales/es-US.ts` and
 Then add the language to this list and to the scripts on the `setup/` directory files.
 
 Finally, make a PR when you are ready. If you have any doubts about how the formatting is done or any other topic, please join our support server.
+m
